@@ -34,6 +34,8 @@ Once the application is running, you can use it to perform the following actions
 
 The Note Taker application can be deployed to Heroku or any other cloud platform that supports Node.js applications. Follow the platform-specific instructions for deploying Node.js applications to deploy the Note Taker application.
 
+## Demo
+![Screenshot](./screenshot.png)
 
 ## License
 
